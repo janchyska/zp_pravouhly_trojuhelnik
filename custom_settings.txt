@@ -1,0 +1,3 @@
+--module-path "C:\Users\janch\OneDrive\Documents\javafx-sdk-18.0.1\lib" --add-modules javafx.controls,javafx.fxml
+Compile on Save -> false
+Classpath to JavaFX17
